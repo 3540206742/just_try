@@ -31,16 +31,20 @@ Let's get started by opening a pull request.
 
 ### :keyboard: Activity: Create a pull request
 
-1. Click on the **Pull requests** tab in your repository.
+1. this a change 
 2. Click **New pull request**.
 3. In the **base:** dropdown, make sure **main** is selected.
-4. Select the **compare:** dropdown, and click `update-game`.
-5. Click **Create pull request**.
-6. Enter a title for your pull request: `Update the game over message`.
-7. Enter a description for your pull request: `Update the game over message so people know how to play again!`
-8. Click **Create pull request**.
-9. Wait about 20 seconds then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
-
+### 尝试创建分支
+# 二手房大数据分析平台
+这是一个网页开发吗,最后会以一个网页的形式展现？
+- 目标
+  - 筛选符合需要的商品房
+  - 辅助政治与商业决策
+- 功能
+  -数据条目，文件
+  -分析结果可视化
+  -针对输入做出推荐输出？
+[武汉二手房](https://wh.lianjia.com/ershoufang/)
 <footer>
 
 <!--
